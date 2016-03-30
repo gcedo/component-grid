@@ -2,6 +2,8 @@
  * Css grid variables
  */
 
+/* stylelint-disable number-max-precision */
+
 :root {
   --grid-gutter-xs: 0.75rem;
   --grid-gutter-s: 1rem;
